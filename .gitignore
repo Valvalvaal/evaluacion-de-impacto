@@ -21,6 +21,7 @@ ipython_config.py
 *.pdf
 *.docx
 *.dta
+*.txt
 
 __pycache__
 *.py[cod]
